@@ -15,6 +15,8 @@
 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/lokesh-attarde-145086141/)
 
+- 👨‍💻 To know more about me, please check my [Resume](https://github.com/Lokesh-Attarde/Resume/blob/32cd1137fa37ad804c2be67ce3aee4fa1e201b54/Lksh%20Data%20Analyst%20Resume.pdf)
+
 - ⚡ Fun fact: **I am fitness freak.**
 
 <h3 align="left">Connect with me:</h3>
