@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-attarde&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-attarde" /> </p>
 
-<img align="right" alt="Coding" width="500" height="400" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
+<img align="right" alt="Coding" width="450" height="350" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 
 - 💻 I’m currently working as a **Data Analyst Intern** at the **iNeuron Intelligence Pvt. Ltd.**
 
