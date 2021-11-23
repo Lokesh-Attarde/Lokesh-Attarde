@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh Attarde</h1>
+<h1 align="center">Hello There 👋, I'm Lokesh Attarde</h1>
 <h3 align="center">A passionate Data Analyst from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-attarde&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-attarde" /> </p>
@@ -19,7 +19,7 @@
 
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/lokesh-attarde-145086141/)
 
-- 👨‍💻 To know more about me, please check my [Resume](https://github.com/Lokesh-Attarde/Resume/blob/32cd1137fa37ad804c2be67ce3aee4fa1e201b54/Lksh%20Data%20Analyst%20Resume.pdf)
+- 👨‍💻 To know more about me, please check my [Resume](https://github.com/Lokesh-Attarde/Resume/blob/3e804ac8b22e392bb6c9b6724bb923419d1647eb/(GitHub)%20Lokesh%20Attarde%20Data%20Analyst%20Resume.pdf)
 
 - ⚡ Fun fact: **I am fitness freak.**
 
@@ -35,7 +35,7 @@
 </p>
     
 
-### ⚡ Github Stats
+### ✨ Github Stats
 
 <p float="left">
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-attarde&show_icons=true&theme=gotham" alt="lokesh-attarde" width="500" />
